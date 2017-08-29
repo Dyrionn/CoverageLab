@@ -11,3 +11,4 @@ C:\GIT\CoverageLab\CoverageLab\bin\Debug\CoverageLab.pdb
 C:\GIT\CoverageLab\CoverageLab\obj\Debug\CoverageLab.csproj.CoreCompileInputs.cache
 C:\GIT\CoverageLab\CoverageLab\obj\Debug\CoverageLab.exe
 C:\GIT\CoverageLab\CoverageLab\obj\Debug\CoverageLab.pdb
+C:\GIT\CoverageLab\CoverageLab\obj\Debug\CoverageLab.csprojResolveAssemblyReference.cache
