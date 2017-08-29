@@ -15,7 +15,7 @@ namespace CoverageLab.Test
         {
             var testedClass = new DummyFunctions();
 
-            var result = testedClass.dummyFunctionOne(null);
+            var result = testedClass.DummyFunctionOne(null);
 
             Assert.False(result);
 
@@ -26,7 +26,7 @@ namespace CoverageLab.Test
         {
             var testedClass = new DummyFunctions();
 
-            var result = testedClass.dummyFunctionOne("blah");
+            var result = testedClass.DummyFunctionOne("blah");
 
             Assert.True(result);
 
@@ -37,7 +37,7 @@ namespace CoverageLab.Test
         {
             var testedClass = new DummyFunctions();
 
-            var result = testedClass.dummyFunctionTwo();
+            var result = testedClass.DummyFunctionTwo();
 
             Assert.True(result);
 
@@ -48,7 +48,7 @@ namespace CoverageLab.Test
         {
             var testedClass = new DummyFunctions();
 
-            var result = testedClass.dummyFunctionThree(9);
+            var result = testedClass.DummyFunctionThree(9);
 
             Assert.False(result);
         }
@@ -58,7 +58,7 @@ namespace CoverageLab.Test
         {
             var testedClass = new DummyFunctions();
 
-            var result = testedClass.dummyFunctionThree(4);
+            var result = testedClass.DummyFunctionThree(4);
 
             Assert.True(result);
 

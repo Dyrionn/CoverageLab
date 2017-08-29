@@ -5,3 +5,9 @@ C:\Users\apianor\source\repos\CoverageLab\CoverageLab\obj\Debug\CoverageLab.cspr
 C:\Users\apianor\source\repos\CoverageLab\CoverageLab\obj\Debug\CoverageLab.csproj.CoreCompileInputs.cache
 C:\Users\apianor\source\repos\CoverageLab\CoverageLab\obj\Debug\CoverageLab.exe
 C:\Users\apianor\source\repos\CoverageLab\CoverageLab\obj\Debug\CoverageLab.pdb
+C:\GIT\CoverageLab\CoverageLab\bin\Debug\CoverageLab.exe.config
+C:\GIT\CoverageLab\CoverageLab\bin\Debug\CoverageLab.exe
+C:\GIT\CoverageLab\CoverageLab\bin\Debug\CoverageLab.pdb
+C:\GIT\CoverageLab\CoverageLab\obj\Debug\CoverageLab.csproj.CoreCompileInputs.cache
+C:\GIT\CoverageLab\CoverageLab\obj\Debug\CoverageLab.exe
+C:\GIT\CoverageLab\CoverageLab\obj\Debug\CoverageLab.pdb

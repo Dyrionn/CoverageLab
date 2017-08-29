@@ -9,17 +9,17 @@ namespace CoverageLab.Lib
     public class DummyFunctions
     {
 
-        public bool dummyFunctionOne(string id)
+        public bool DummyFunctionOne(string id)
         {
             return !String.IsNullOrEmpty(id); ;
         }
 
-        public bool dummyFunctionTwo()
+        public bool DummyFunctionTwo()
         {
             return true ;
         }
 
-        public bool dummyFunctionThree(int id)
+        public bool DummyFunctionThree(int id)
         {
             return (id % 2) == 0;
         }
