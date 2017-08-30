@@ -26,7 +26,6 @@ C:\GIT\CoverageLab\CoverageLab.Test\bin\Debug\xunit.core.dll
 C:\GIT\CoverageLab\CoverageLab.Test\bin\Debug\xunit.execution.desktop.dll
 C:\GIT\CoverageLab\CoverageLab.Test\bin\Debug\CoverageLab.pdb
 C:\GIT\CoverageLab\CoverageLab.Test\bin\Debug\CoverageLab.exe.config
-C:\GIT\CoverageLab\CoverageLab.Test\bin\Debug\xunit.abstractions.xml
 C:\GIT\CoverageLab\CoverageLab.Test\bin\Debug\xunit.assert.xml
 C:\GIT\CoverageLab\CoverageLab.Test\bin\Debug\xunit.core.xml
 C:\GIT\CoverageLab\CoverageLab.Test\bin\Debug\xunit.execution.desktop.xml
@@ -34,3 +33,6 @@ C:\GIT\CoverageLab\CoverageLab.Test\obj\Debug\CoverageLab.Test.csprojResolveAsse
 C:\GIT\CoverageLab\CoverageLab.Test\obj\Debug\CoverageLab.Test.csproj.CoreCompileInputs.cache
 C:\GIT\CoverageLab\CoverageLab.Test\obj\Debug\CoverageLab.Test.dll
 C:\GIT\CoverageLab\CoverageLab.Test\obj\Debug\CoverageLab.Test.pdb
+C:\GIT\CoverageLab\CoverageLab.Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\GIT\CoverageLab\CoverageLab.Test\bin\Debug\xunit.runner.utility.net35.dll
+C:\GIT\CoverageLab\CoverageLab.Test\bin\Debug\xunit.runner.reporters.net452.dll
