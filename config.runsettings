@@ -7,8 +7,8 @@
           <CodeCoverage>
             <ModulePaths>
               <Exclude>
-                <ModulePath>.*tests.*</ModulePath>
-                <ModulePath>.*Tests.*</ModulePath>>
+                <ModulePath>.*test.*</ModulePath>
+                <ModulePath>.*Test.*</ModulePath>>
               </Exclude>
             </ModulePaths>
           </CodeCoverage>
