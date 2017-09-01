@@ -1,5 +1,7 @@
 ﻿using CoverageLab.Lib;
 using Xunit;
+using FluentValidation;
+using FluentValidation.Validators;
 
 namespace CoverageLab.Test
 {
@@ -23,7 +25,10 @@ namespace CoverageLab.Test
 
             var result = testedClass.DummyFunctionOne("blah");
 
+            NotEmptyValidator fl = new NotEmptyValidator(result);
+
             Assert.True(result);
+            
 
         }
 

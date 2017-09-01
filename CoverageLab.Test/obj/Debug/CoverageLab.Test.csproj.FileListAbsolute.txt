@@ -36,3 +36,5 @@ C:\GIT\CoverageLab\CoverageLab.Test\obj\Debug\CoverageLab.Test.pdb
 C:\GIT\CoverageLab\CoverageLab.Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
 C:\GIT\CoverageLab\CoverageLab.Test\bin\Debug\xunit.runner.utility.net35.dll
 C:\GIT\CoverageLab\CoverageLab.Test\bin\Debug\xunit.runner.reporters.net452.dll
+C:\GIT\CoverageLab\CoverageLab.Test\bin\Debug\FluentValidation.dll
+C:\GIT\CoverageLab\CoverageLab.Test\bin\Debug\FluentValidation.xml
